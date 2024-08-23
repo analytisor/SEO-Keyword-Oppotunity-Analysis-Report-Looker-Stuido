@@ -1,6 +1,19 @@
 # SEO-Keyword-Oppotunity-Analysis-Report-Looker-Stuido-
-
 ## [**SEO Keyword Opportunity Analysis Report (Looker Studio)**](https://lookerstudio.google.com/reporting/e7265cb0-d89c-45ff-bd19-e1eed95b02e1)
+
+### **Visualizations**
+
+#### **Keyword Search Intentions Overview**
+
+![Keyword Search Intentions Overview](https://github.com/analytisor/SEO-Keyword-Oppotunity-Analysis-Report-Looker-Stuido-/blob/main/keyword_intent_overview.jpg)
+
+#### **Locational Keywords**
+
+![Locational Keywords](https://github.com/analytisor/SEO-Keyword-Oppotunity-Analysis-Report-Looker-Stuido-/blob/main/location_keywords.jpg)
+
+#### **Locational and Service Relation Keywords**
+
+![Locational and Service Relation Keywords](https://github.com/analytisor/SEO-Keyword-Oppotunity-Analysis-Report-Looker-Stuido-/blob/main/locational%20and%20services%20keyword%20relations.png)
 
 ## **SUMMARY**
 
